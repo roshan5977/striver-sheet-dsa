@@ -1,4 +1,4 @@
-package arrays.easy_14;
+package Arrays.easy_14;
 
 public class LeftRotateArrayByOnePlace {
     

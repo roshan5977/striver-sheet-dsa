@@ -1,4 +1,4 @@
-package arrays.hard_12;
+package Arrays.hard_12;
 
 public class CountNumberOfSubarraysWithGivenxorK {
     

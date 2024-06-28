@@ -1,4 +1,4 @@
-package arrays.medium_14;
+package Arrays.medium_14;
 
 public class LongestConsecutiveSequenceArray {
     
